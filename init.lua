@@ -6,7 +6,7 @@ minetest.register_node('advblocks:floor_tile',{
     tiles = {'tile.png'};
 })
 
-minetest.register_node('advblocks:concrete_wall'{
+minetest.register_node('advblocks:concrete_wall',{
     description = "Concrete Wall";
     groups = {oddly_breakable_by_hand=2};
     tiles = {'concretewall.png'};
