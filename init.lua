@@ -8,6 +8,6 @@ minetest.register_node('advblocks:floor_tile',{
 
 minetest.register_node('advblocks:concrete_wall'{
     description = "Concrete Wall";
-    groups = {oddly_breakable_by_hand=3};
+    groups = {oddly_breakable_by_hand=2};
     tiles = {'concretewall.png'};
 })
