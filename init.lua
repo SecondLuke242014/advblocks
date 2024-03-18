@@ -16,6 +16,6 @@ minetest.register_node('advblocks:concrete_wall',{
 
 minetest.register_node('advblocks:smear',{
         description = 'Smear';
-        groups = {oddly_breakable_by_hand=3}; 
-        tiles = {'smear.tiff'};
+        groups = {oddly_breakable_by_hand=2}; 
+        tiles = {'smear.png'};
 })
