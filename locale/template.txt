@@ -1,5 +1,0 @@
-# textdomain: advblocks
-
-Floor Tile=
-Concrete Wall=
-Smear=
